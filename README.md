@@ -1,2 +1,2 @@
 # Shortest-Path-Algorithm
-Implementation of shortest path algorithm in Verilog.
+In this project, I implemented the [Floyd Warshall Shortest Path Algorithm](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/) . I performed design synthesis , implementation and bitstream generation using [Xilinx Vivado](https://www.xilinx.com/products/design-tools/vivado.html) and tested the circuit on the [Zybo Z7-20: Zynq-7000 ARM/FPGA SoC Development Board](https://store.digilentinc.com/zybo-z7-zynq-7000-arm-fpga-soc-development-board/).
